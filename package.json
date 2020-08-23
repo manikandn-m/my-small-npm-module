@@ -1,0 +1,19 @@
+{
+  "name": "my-small-npm-module",
+  "version": "1.0.0",
+  "description": "my-small-npm-module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikandn-m/my-small-npm-module.git"
+  },
+  "author": "manikandan.m@xseededucation.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manikandn-m/my-small-npm-module/issues"
+  },
+  "homepage": "https://github.com/manikandn-m/my-small-npm-module#readme"
+}
