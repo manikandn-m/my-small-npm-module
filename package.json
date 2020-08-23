@@ -1,5 +1,5 @@
 {
-  "name": "my-small-npm-module",
+  "name": "@manikandn-m/my-small-npm-module",
   "version": "1.0.0",
   "description": "my-small-npm-module",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manikandn-m/my-small-npm-module/issues"
   },
-  "homepage": "https://github.com/manikandn-m/my-small-npm-module#readme"
+  "homepage": "https://github.com/manikandn-m/my-small-npm-module#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
